@@ -8,4 +8,4 @@ for i in range (r):
     y=int(data[i]*m)
     print(y)
     m=m/10
-
+#print(r);
